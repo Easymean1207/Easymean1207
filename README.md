@@ -1,10 +1,8 @@
-### Hi there 👋
-
+### 코딩 못 하지만 배워가는 이지민입니다.👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasymean1207)](https://hits.seeyoufarm.com)
 <!--
-**Easymean1207/Easymean1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Easymean1207&show_icons=true&hide_border=true)](https://github.com/shinplest)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easymean1207&layout=compact)](https://github.com/shinplest)
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
