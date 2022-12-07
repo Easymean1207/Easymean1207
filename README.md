@@ -1,4 +1,4 @@
-### 코딩 못 하지만 배워가는 이지민입니다.👋
+### 코딩 배워가는 이지민입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasymean1207)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->ㅇㅇㅇ
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Easymean1207&show_icons=true&hide_border=true)](https://github.com/Easymean1207)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easymean1207&layout=compact)](https://github.com/Easymean1207)
