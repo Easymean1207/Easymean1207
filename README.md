@@ -10,7 +10,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
   
-공부하면 할 수록 더 배워야 할 것이 많아지네요. 중요한 것은 꺾이지 않는 손가락.
+공부하면 할 수록 더 배워야 할 것이 많아지네요.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Easymean1207&show_icons=true&hide_border=true)](https://github.com/Easymean1207)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easymean1207&layout=compact)](https://github.com/Easymean1207)
