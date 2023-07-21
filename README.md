@@ -12,8 +12,8 @@
   
 **공부하면 할 수록 더 배워야 할 것이 많아지네요.**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Easymean1207&show_icons=true&hide_border=true)](https://github.com/Easymean1207)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easymean1207&layout=compact)](https://github.com/Easymean1207)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Easymean1207&show_icons=true&hide_border=true)](https://github.com/Easymean1207)
 </br>
 
 [![wakatime](https://wakatime.com/badge/user/9e93a292-ceeb-4edd-bf41-4f75ef8c0469.svg)](https://wakatime.com/@9e93a292-ceeb-4edd-bf41-4f75ef8c0469)
