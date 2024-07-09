@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: dlwlasl1207@gmail.com
+- 📖 I'm recording my study in: https://velog.io/@easymean1207/posts
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
   
