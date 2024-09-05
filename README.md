@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: dlwlasl1207@gmail.com
-- 📖 I'm recording my study in: https://velog.io/@easymean1207/posts
+- 📫 How to reach me: [Email](dlwlasl1207@gmail.com)
+- 📖 I'm recording my study in: [velog](https://velog.io/@easymean1207/posts)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
   
