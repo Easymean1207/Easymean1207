@@ -15,6 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easymean1207&layout=compact&theme=tokyonight)](https://github.com/Easymean1207)
 [![github stats](https://github-readme-stats.vercel.app/api?username=Easymean1207&show_icons=true&theme=tokyonight)](https://github.com/Easymean1207)
+[![코드트리|실력진단-dlwlals46](https://banner.codetree.ai/v1/banner/dlwlals46)](https://www.codetree.ai/profiles/dlwlals46)
 </br>
 
 [![wakatime](https://wakatime.com/badge/user/9e93a292-ceeb-4edd-bf41-4f75ef8c0469.svg)](https://wakatime.com/@9e93a292-ceeb-4edd-bf41-4f75ef8c0469)
