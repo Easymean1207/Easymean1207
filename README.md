@@ -23,7 +23,6 @@
 <!-- 2. 끝단의 () 링크는 배너클릭 시 연결되는 곳으로 기능동작과 관계없다. 개인github 사이트도 좋고, 아예 생략해도된다. -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leejimin)](https://wakatime.com/@leejimin)
 </br>
-[![코드트리|실력진단-dlwlals46](https://banner.codetree.ai/v1/banner/dlwlals46)](https://www.codetree.ai/profiles/dlwlals46)
 <h3> 🚀 Skills 🚀 </h3>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
