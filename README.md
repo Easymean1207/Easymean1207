@@ -1,4 +1,4 @@
-### 개발자를 지향하는 이지민입니다.😉
+### 프론트엔드 개발자를 지향하는 이지민입니다.😉
 
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ... 
