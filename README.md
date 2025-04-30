@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: dlwlasl1207@gmail.com
-- 📖 I'm recording my study in: <a href="https://velog.io/@easymean1207/about" target = "_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
+- 📫 How to contact me: dlwlasl1207@gmail.com
+- 📖 I'm recording my study in: [![Easymean1207](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@easymean1207)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
   
@@ -28,7 +28,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/NextJS-20232A?style=flat-square&logo=Nextdotjs&logoColor=white"/></a>
-<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a> -->
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/NextJS-20232A?style=flat-square&logo=Nextdotjs&logoColor=white"/></a> -->
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> -->
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a> -->
 
