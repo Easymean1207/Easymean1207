@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: dlwlasl1207@gmail.com
-- 📖 I'm recording my study in: [Velog](https://velog.io/@easymean1207/posts)
+- 📖 I'm recording my study in: <a href="https://velog.io/@easymean1207/about" target = "_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
   
