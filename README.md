@@ -10,7 +10,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Easymean1207&layout=donut&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Easymean1207&layout=compact&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats)
 [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Easymean1207&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
 </br>
 
